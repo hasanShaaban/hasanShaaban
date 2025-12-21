@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hasan Shaaban!
 
-🎓 I'm a third-year student at the **Information Technology Engineering Faculty, Damascus University**.  
+🎓 I'm a fourth-year student at the **Information Technology Engineering Faculty, Damascus University** specialized in AI.  
 💻 Passionate about **mobile development** and currently diving deep into **Flutter**.  
 🛠️ I build personal projects and freelance from home — solving problems and creating cool apps!
 
